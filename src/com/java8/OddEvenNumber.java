@@ -61,5 +61,8 @@ public class OddEvenNumber {
 		System.out.println(min);
 		
 		
+		System.out.println("this is git hub project");
+		
+		
 }
 }
